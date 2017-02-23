@@ -4,12 +4,11 @@ Just Give The Http Link to Script And Enter Your REGEX Pattern ,Thats It!
 ##How To Run ?
 In Linux Or Mac 
 <p>1-Copy Script AnyWhere You Whant </p> 
-<p>2-Go To That Directory</p>
-<p>cd /home/{user}/{ your folder that contain script }</p>
-<p>3-bash regex-link-picker.sh</p>
-<p>
+2-Go To That Directory
+cd /home/{user}/{ your folder that contain script }
+3-bash regex-link-picker.sh
+
 THATS IT.
-</p>
 
 
    
