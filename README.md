@@ -1,6 +1,6 @@
 ##REGEX - LINK - FINDER
 Just Give The Http Link to Script And Enter Your REGEX Pattern ,Thats It!
- Now You Have List Of All The Links that Match Pattern. 
+ Now You Have List Of All The Links that Match Your Pattern. 
 ##How To Run ?
 In Linux Or Mac 
 <p>1-Copy Script AnyWhere You Whant </p> 
